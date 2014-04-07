@@ -2,9 +2,6 @@
 //  main.cpp
 //  fourKProcessing
 //
-//  Created by Rob Andrews on 7/28/13.
-//  Copyright (c) 2013 Rob Andrews. All rights reserved.
-//
 
 #include<opencv/cv.h>
 #include<opencv/highgui.h>
